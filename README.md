@@ -2,6 +2,4 @@
 Repository for the course in Data Analysis for Biologists (exchange semester)
 
 
-# My first repo
-
-hey
+# BIOL343_CC
